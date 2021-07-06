@@ -150,8 +150,7 @@ When installing on Ubuntu or Debian you can either download the `deb` package
 and [install manually or build from source](#installing-from-source).
 
 #### Manual download
-
-First, find the latest .deb release from the repository [releases page](https://github.com/gopasspw/gopass/releases). Then, download and install it:
+First, find the .deb from the [repository latest release page](https://github.com/gopasspw/gopass/releases/latest). Then, download and install it:
 
 ```bash
 wget [the URL of the latest .deb release]
